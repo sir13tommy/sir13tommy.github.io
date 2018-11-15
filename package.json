@@ -1,0 +1,23 @@
+{
+  "name": "sir13tommy.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sir13tommy/sir13tommy.github.io.git"
+  },
+  "author": "Artem Anashchenkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sir13tommy/sir13tommy.github.io/issues"
+  },
+  "homepage": "https://github.com/sir13tommy/sir13tommy.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "^3.1.0"
+  }
+}
