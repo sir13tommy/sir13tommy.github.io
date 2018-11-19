@@ -49,3 +49,8 @@ a {
     border-color: darken($secondary, 10%);
   }
 }
+
+// Navbar overrides
+.navbar-brand {
+  font-size: 1.05rem;
+}
