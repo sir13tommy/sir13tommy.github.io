@@ -261,9 +261,10 @@ form .row:first-child .floating-label-form-group {
 .mobile {
   background-image: url(/img/phone.png);
   background-size: contain;
-  width: 341px;
-  height: 567px;
-  padding: 70px 51px 71px 50px; }
+  width: 480px;
+  height: 853px;
+  padding: 140px 101px;
+  box-sizing: content-box; }
 
 a {
   color: #18BC9C; }

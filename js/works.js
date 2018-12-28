@@ -1,7 +1,7 @@
 (function() {
   var gameSrcKey = 'src'
 
-  var $frame = $('.phone iframe')
+  var $frame = $('.mobile iframe')
   var urlParams = new URLSearchParams(window.location.search);
   var gameSrc = urlParams.get(gameSrcKey)
 
