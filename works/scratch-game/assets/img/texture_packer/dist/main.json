@@ -1,0 +1,249 @@
+{"frames": {
+
+"magic_forest_bonfire.png":
+{
+	"frame": {"x":3,"y":483,"w":263,"h":245},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":245},
+	"sourceSize": {"w":263,"h":245},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_bonfire_small.png":
+{
+	"frame": {"x":808,"y":3,"w":88,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":83},
+	"sourceSize": {"w":88,"h":83},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_bow.png":
+{
+	"frame": {"x":1597,"y":236,"w":240,"h":239},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":239},
+	"sourceSize": {"w":240,"h":239},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_bow_small.png":
+{
+	"frame": {"x":652,"y":3,"w":81,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":81},
+	"sourceSize": {"w":81,"h":81},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_button.png":
+{
+	"frame": {"x":251,"y":236,"w":1072,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1072,"h":202},
+	"sourceSize": {"w":1072,"h":202},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_coin_icon_big.png":
+{
+	"frame": {"x":899,"y":3,"w":91,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":91},
+	"sourceSize": {"w":91,"h":91},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_coin_icon_small.png":
+{
+	"frame": {"x":337,"y":3,"w":64,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+	"sourceSize": {"w":64,"h":64},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_dollar_icon.png":
+{
+	"frame": {"x":993,"y":3,"w":63,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":95},
+	"sourceSize": {"w":63,"h":95},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_frame.png":
+{
+	"frame": {"x":269,"y":483,"w":278,"h":278},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":278},
+	"sourceSize": {"w":278,"h":278},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_frame1.png":
+{
+	"frame": {"x":833,"y":483,"w":1007,"h":334},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1007,"h":334},
+	"sourceSize": {"w":1007,"h":334},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_frame2.png":
+{
+	"frame": {"x":374,"y":820,"w":1124,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1124,"h":391},
+	"sourceSize": {"w":1124,"h":391},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_frame3.png":
+{
+	"frame": {"x":3,"y":1214,"w":1125,"h":520},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1125,"h":520},
+	"sourceSize": {"w":1125,"h":520},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_frame_for_text.png":
+{
+	"frame": {"x":3,"y":101,"w":1006,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1006,"h":117},
+	"sourceSize": {"w":1006,"h":117},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_gift_icon.png":
+{
+	"frame": {"x":404,"y":3,"w":74,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":74},
+	"sourceSize": {"w":74,"h":74},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_leaf.png":
+{
+	"frame": {"x":1840,"y":236,"w":204,"h":244},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":244},
+	"sourceSize": {"w":204,"h":244},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_leaf_small.png":
+{
+	"frame": {"x":736,"y":3,"w":69,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":82},
+	"sourceSize": {"w":69,"h":82},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_question_icon.png":
+{
+	"frame": {"x":573,"y":3,"w":76,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":76},
+	"sourceSize": {"w":76,"h":76},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_rope.png":
+{
+	"frame": {"x":3,"y":236,"w":245,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":245,"h":168},
+	"sourceSize": {"w":245,"h":168},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_rope_small.png":
+{
+	"frame": {"x":3,"y":3,"w":82,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":57},
+	"sourceSize": {"w":82,"h":57},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_scratch_frame.png":
+{
+	"frame": {"x":550,"y":483,"w":280,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":280},
+	"sourceSize": {"w":280,"h":280},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_scratch_frame_big.png":
+{
+	"frame": {"x":3,"y":820,"w":368,"h":368},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":368,"h":368},
+	"sourceSize": {"w":368,"h":368},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_tent.png":
+{
+	"frame": {"x":1326,"y":236,"w":268,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":224},
+	"sourceSize": {"w":268,"h":224},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_tent_small.png":
+{
+	"frame": {"x":481,"y":3,"w":89,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":75},
+	"sourceSize": {"w":89,"h":75},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_win_up_to_100.png":
+{
+	"frame": {"x":1012,"y":101,"w":797,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":797,"h":132},
+	"sourceSize": {"w":797,"h":132},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_winner.png":
+{
+	"frame": {"x":88,"y":3,"w":246,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":58},
+	"sourceSize": {"w":246,"h":58},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"magic_forest_winner_frame.png":
+{
+	"frame": {"x":1131,"y":1214,"w":570,"h":620},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":620},
+	"sourceSize": {"w":570,"h":620},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"magic_forest_frame": ["magic_forest_frame1.png","magic_forest_frame2.png","magic_forest_frame3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "main.png",
+	"format": "RGBA8888",
+	"size": {"w":2047,"h":1837},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:412bc95850bf5488d03988227d01ff44:0d3d27edd26609264b568e019c6a0194:03f91ab73e0f4667800419161e658c40$"
+}
+}
